@@ -1,0 +1,8 @@
+Connection to db Done! 
+sqlCommand  operated! 
+Connection to db Done! 
+sqlCommand  operated! 
+Connection to db Done! 
+sqlCommand  operated! 
+Connection to db Done! 
+sqlCommand  operated! 
